@@ -1,7 +1,7 @@
 # ConfRev2016
 Short version of ET-trees operations
 
-The source code included in the present repository was developed by Juan Carlos Saenz and Paolo Veronelli. The aim it to develop and test Euler tour representation for dynamic trees through functional Finger Trees. 
+The source code included in the present repository was developed by Juan Carlos Saenz and Paolo Veronelli. The aim is to develop and test Euler tour representation for dynamic trees through functional Finger Trees. 
 
 Some of the literature we based the work based on:
 
